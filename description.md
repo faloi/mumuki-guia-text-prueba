@@ -1,1 +1,1 @@
-Esta es una guía de prueba del runner de texto.
+Esta es una guia de prueba del runner de texto.
