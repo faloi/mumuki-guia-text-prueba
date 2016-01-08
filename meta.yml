@@ -1,0 +1,9 @@
+---
+name: Prueba text runner
+locale: es
+type: learning
+beta: false
+language: text
+id_format: '%05d'
+order:
+- 1

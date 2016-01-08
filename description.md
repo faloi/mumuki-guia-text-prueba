@@ -1,0 +1,1 @@
+Esta es una guía de prueba del runner de texto
